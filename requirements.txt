@@ -1,0 +1,6 @@
+matplotlib == 3.10.0
+pandas==2.2.1
+nxviz==0.6.3
+networkx==3.2
+wordcloud==1.9.4
+openpyxl==3.1.5
